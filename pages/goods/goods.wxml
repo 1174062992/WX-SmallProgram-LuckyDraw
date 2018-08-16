@@ -1,0 +1,8 @@
+<!--pages/goods/goods.wxml-->
+<view class='goodsList'>
+<image class='goodsImage' src='/images/123.jpg'></image>
+<text class='goodsTitle'>AirPods耳机</text>
+<text class='goodsIntegral'>69999积分</text>
+<text class='goodsNumber'>近30天以兑4件</text>
+<button class='goodsExchange'>马上兑</button>
+</view>

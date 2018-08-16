@@ -1,0 +1,40 @@
+/* pages/goods/goods.wxss */
+.goodsList{
+  position: relative;
+  margin: 20rpx 20rpx auto;
+}
+.goodsImage{
+  width: 180rpx;
+  height: 130rpx;
+}
+.goodsTitle{
+  position: absolute;
+  margin: 10rpx 20rpx auto;
+  font-size: 30rpx;
+}
+.goodsIntegral{
+  position: absolute;
+  margin: 47rpx 20rpx auto;
+  font-size: 25rpx;
+  color: orange;
+}
+.goodsNumber{
+  position: absolute;
+  margin: 80rpx 20rpx auto;
+  font-size: 25rpx;
+  color: gray;
+}
+.goodsExchange{
+  position: absolute;
+  margin: 0rpx auto;
+  right: 20rpx;
+  top: 20rpx;
+  width: 120rpx;
+  height: 60rpx;
+  color: blue;
+  background-color: white;
+  border-style: solid;
+  border-width: 1rpx;
+  border-color: blue;
+  font-size: 22rpx;
+}
